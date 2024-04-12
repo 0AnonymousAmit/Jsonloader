@@ -55,7 +55,7 @@ def download_file(url, filename, file_display_name):
 
 if __name__ == "__main__":
     # Logo
-   logo = """
+    logo = """
  
  ▄▄▄██▀▀▀  ██████  ▒█████   ███▄    █  ██▓     ▒█████   ▄▄▄      ▓█████▄ ▓█████  ██▀███  
    ▒██   ▒██    ▒ ▒██▒  ██▒ ██ ▀█   █ ▓██▒    ▒██▒  ██▒▒████▄    ▒██▀ ██▌▓█   ▀ ▓██ ▒ ██▒
@@ -142,6 +142,3 @@ if __name__ == "__main__":
 
     else:
         print("Invalid choice.")
-#4 Implemented saving fetched data to a text file.
-# Added options for providing JSON content directly in the terminal.
-# Added space between each set of data in fetched_data and printed fetched_data.
