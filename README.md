@@ -12,12 +12,12 @@ A Python script to download media files from JSON data or fetch information from
 
 1. Clone the repository:
     ```bash
-    git clone <repo_link>
+    git clone https://github.com/0AnonymousAmit/Jsonloader
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd json-media-downloader
+    cd Jsonloader
     ```
 
 3. Install the required dependencies:
